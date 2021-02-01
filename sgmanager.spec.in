@@ -16,6 +16,7 @@ Source:         %{url}/archive/%{commit}/%{name}-%{version}.tar.gz
 
 BuildRequires:  python36
 BuildRequires:  python36-devel
+BuildRequires:  gcc
 Requires:       python36
 
 %description
