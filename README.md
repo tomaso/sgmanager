@@ -1,3 +1,5 @@
+## :warning: This repository has been deprecated and the development of sgmanager has been stopped. Feel free to apply in case you want to take over the ownership. :warning:
+
 # sgmanager
 
 OpenStack Security Groups Management Tool.
