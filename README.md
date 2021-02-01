@@ -1,5 +1,7 @@
 # sgmanager
 
+## :warning: This repository has been deprecated and will be removed from GitHub soon :warning:
+
 OpenStack Security Groups Management Tool.
 
 ## Configuration
